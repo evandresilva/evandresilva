@@ -4,7 +4,7 @@
 <!-- - 🌱 Estou actualmente a estudar JS e Design ! -->
 <!-- - 📫 Entre em contacto comigo pelo email: Evandrekuzola@gmail.com -->
 <!-- - ⚡ Facto engraçado: Kuzola em Kimbundu significa amor, ou seja, o meu nome é Evandre Amor  -->
-- 👀 Visualizações no meu perfil: <img src="https://komarev.com/ghpvc/?username=evandresilva&color=green" alt="evandresilva" /> 
+<!-- - - 👀 Visualizações no meu perfil: <img src="https://komarev.com/ghpvc/?username=evandresilva&color=green" alt="evandresilva" /> -->
 
 <div>
   <a href="https://github.com/evandresilva">
