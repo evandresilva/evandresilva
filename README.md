@@ -1,4 +1,4 @@
-## Olá! Eu sou o Evandre Da Silva
+## Olá! Eu sou o Evandre Da Silva 🤓
 <!-- - 🏫 Sou <b> Bacharel</b> no curso de Engenharia Informática na UCAN -->
 <!-- - 🔭 Actualmete trabalho como Front-End Dev , Designer e Marketeer -->
 <!-- - 🌱 Estou actualmente a estudar JS e Design ! -->
