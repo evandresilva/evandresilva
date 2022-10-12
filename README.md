@@ -1,10 +1,4 @@
 ## Olá! Eu sou o Evandre Da Silva 🤓
-<!-- - 🏫 Sou <b> Bacharel</b> no curso de Engenharia Informática na UCAN -->
-<!-- - 🔭 Actualmete trabalho como Front-End Dev , Designer e Marketeer -->
-<!-- - 🌱 Estou actualmente a estudar JS e Design ! -->
-<!-- - 📫 Entre em contacto comigo pelo email: Evandrekuzola@gmail.com -->
-<!-- - ⚡ Facto engraçado: Kuzola em Kimbundu significa amor, ou seja, o meu nome é Evandre Amor  -->
-<!-- - - 👀 Visualizações no meu perfil: <img src="https://komarev.com/ghpvc/?username=evandresilva&color=green" alt="evandresilva" /> -->
 
 <div>
   <a href="https://github.com/evandresilva">
